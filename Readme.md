@@ -33,7 +33,7 @@ This project taught me long content can work on a webpage, how to create cards u
 ## Screenshot 
 
 
-# [Live Link]()
+# [Live Link](https://cheery-bombolone-7c5533.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 ---
@@ -48,7 +48,7 @@ This project taught me long content can work on a webpage, how to create cards u
 
 
 
-
+---
 >## Who Am I ?
 
 >My Name Is Karan I am A Learner Who is Interested in Sharing Knowledge About The Skills That I'm Developing to Become A Full-Stack Web Developer.
